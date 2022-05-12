@@ -1,6 +1,6 @@
 - howdy folks i'm @dantco
-- i do things that are fun for me to work on
-- learning xml/html/java and whatever else i get the opportunity to
+- i do projects that are fun for me to work on
+- learning .NET and many other cool things @ tech elevator
 
 <!---
 dantco/dantco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
